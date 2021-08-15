@@ -1,0 +1,8 @@
+{
+  "conversas": [
+    {
+      "mensagens": ["Qual é o preço do açúcar?", "Qual o preço do açúcar de 50kg?", "Quanto está o açúcar?"],
+      "resposta": "O preço do açúcar está 110 reais o saco de 50Kg e o saco de 25Kg 55 reais"
+    }
+  ]
+}
