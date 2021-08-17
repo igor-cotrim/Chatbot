@@ -5,12 +5,12 @@
       "resposta": "O preço do açúcar está 110 reais o saco de 50Kg e o saco de 25Kg 55 reais"
     },
     {
-      "mensagens": ["Quais as formas de pagamento?", "Aceita Cartão?", "Aceita Cheque?", "Como faço para pagar?"],
+      "mensagens": ["Quais as formas de pagamento?", "Aceita Cartão?", "Aceita Cheque?", "Como faço para pagar?", "Qual o preço?", "Como pagar?"],
       "resposta": "Aceito cartão, dinheiro, transferencia bancaria ou cheque"
     },
     {
       "mensagens": ["Quais produtos você vende?", "Quais produtos tem?", "Vende açúcar e o que mais?", "Vende farinha?"],
-      "resposta": "Vendo Açúcar, farinha e oléo. Farinhaa e açúcar tenho de 25kg ou 50kg e o oléo tenho a caixa com 12 unidades"
+      "resposta": "Vendo Açúcar, farinha e oléo. Farinha e açúcar tenho de 25kg ou 50kg e o oléo tenho a caixa com 12 unidades"
     },
     {
       "mensagens": ["Qual o preço da farinha?", "Farinha ta de quanto?", "Quanto está a farinha?"],

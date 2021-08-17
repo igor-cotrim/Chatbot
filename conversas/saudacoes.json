@@ -1,19 +1,19 @@
 {
   "conversas": [
     {
-      "mensagens": ["olá", "oi"],
+      "mensagens": ["olá", "oi", "ola"],
       "resposta": "Olá, sou robô de atendimento do Alex. Como posso te ajudar?"
     },
     {
-      "mensagens": ["bom dia"],
+      "mensagens": ["bom dia", "olá, bom dia", "oi, bom dia", "ola, bom dia"],
       "resposta": "Bom dia, sou o robô de atendimento do Alex. Como posso te ajudar?"
     },
     {
-      "mensagens": ["boa tarde"],
+      "mensagens": ["boa tarde", "olá, boa tarde", "oi, boa tarde", "ola, boa tarde"],
       "resposta": "Boa tarde, sou o robô de atendimento do Alex. Como posso te ajudar?"
     },
     {
-      "mensagens": ["boa noite"],
+      "mensagens": ["boa noite", "olá, boa noite", "oi, boa noite", "ola, boa noite"],
       "resposta": "Boa noite, sou o robô de atendimento do Alex. Como posso te ajudar?"
     }
   ]
