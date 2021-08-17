@@ -3,9 +3,8 @@ from chatterbot.trainers import ListTrainer
 import json
 
 CONFIGURACOES_CONVERSAS = [
-    "/home/igorcotrim/Development/ifba/ia/chatbot/conversas/saudacoes.json",
-    "/home/igorcotrim/Development/ifba/ia/chatbot/conversas/informacoes_basicas.json",
-    # "/misc/ifba/workspaces/inteligencia artificial/chatterbot/conversas/sistemas_informacao.json"
+    "/Users/xuxi_/projects/ia/Chatbot/conversas/saudacoes.json",
+    "/Users/xuxi_/projects/ia/Chatbot/conversas/informacoes.json",
 ]
 
 def iniciar():

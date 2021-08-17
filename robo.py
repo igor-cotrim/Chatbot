@@ -18,14 +18,14 @@ def comparar_mensagens(mensagem, mensagem_candidata):
         confianca = round(confianca.ratio(), 2)
         if confianca < ACEITACAO:
             confianca = 0.0
-        else:
-            print("mensagem do usuario:", texto_mensagem, ", mensagem candidata:", mensagem_candidata, ", nível de confiança:", confianca)
+        # else:
+            # print("mensagem do usuario:", texto_mensagem, ", mensagem candidata:", mensagem_candidata, ", nível de confiança:", confianca)
 
     return confianca
 
 def selecionar_resposta(mensagem, lista_respostas, storage=None):
     resposta = lista_respostas[0]
-    print("resposta escolhida:", resposta)
+    # print("resposta escolhida:", resposta)
 
     return resposta
 

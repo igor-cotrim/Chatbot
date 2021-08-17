@@ -1,0 +1,32 @@
+{
+  "conversas": [
+    {
+      "mensagens": ["Qual é o preço do açúcar?", "Qual o preço do açúcar de 50kg?", "Quanto está o açúcar?"],
+      "resposta": "O preço do açúcar está 110 reais o saco de 50Kg e o saco de 25Kg 55 reais"
+    },
+    {
+      "mensagens": ["Quais as formas de pagamento?", "Aceita Cartão?", "Aceita Cheque?", "Como faço para pagar?"],
+      "resposta": "Aceito cartão, dinheiro, transferencia bancaria ou cheque"
+    },
+    {
+      "mensagens": ["Quais produtos você vende?", "Quais produtos tem?", "Vende açúcar e o que mais?", "Vende farinha?"],
+      "resposta": "Vendo Açúcar, farinha e oléo. Farinhaa e açúcar tenho de 25kg ou 50kg e o oléo tenho a caixa com 12 unidades"
+    },
+    {
+      "mensagens": ["Qual o preço da farinha?", "Farinha ta de quanto?", "Quanto está a farinha?"],
+      "resposta": "A Farinha de 50kg está 125 reais e a de 25kg está de 62,50 reais"
+    },
+    {
+      "mensagens": ["Entrega que horas?", "Entrega de manhã?", "Entrega a tarde?", "Vem entregar que horas?", "Qual horário de funcionamento?"],
+      "resposta": "Entrego no turno da manhã! Faça sua encomenda logo!!!"
+    },
+    {
+      "mensagens": ["Qual é a marca da farinha?", "Quais as marcas dos produtos?", "Qual a marca do açúcar?", "Qual é a marca do oléo?", "Qual a marca?"],
+      "resposta": "A farinha é da marca Rosa Branca de extrema qualidade. O açúcar é União, muito bom para fazer massas e adoçar o produto. Oléo é Soya"
+    },
+    {
+      "mensagens": ["Qual endereço para retirada?", "Posso ir ai buscar?"],
+      "resposta": "Não trabalho com retirada! Faça sua encomenda que vou até você!!!"
+    }
+  ]
+}
